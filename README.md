@@ -81,9 +81,13 @@ and click on the connect icon
 
 3. click on the 
 
+![WhatsApp Image 2024-04-22 at 13 36 19_aa16758c](https://github.com/Ettasupraja/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/151641352/b7481075-e509-4806-875b-31daf3131e33)
 
 
+![WhatsApp Image 2024-04-22 at 13 36 20_354517b6](https://github.com/Ettasupraja/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/151641352/2bfe6d20-de59-4df4-8329-d177f59d0629)
 
+
+![WhatsApp Image 2024-04-22 at 13 36 20_80d1ba6e](https://github.com/Ettasupraja/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/151641352/7ea78bd5-13e3-4cc5-9cc1-75dd28198813)
 
 
 
@@ -100,10 +104,12 @@ and click on the connect icon
 
 ### output video and screen shots of pick and place 
 
-![WhatsApp Image 2024-04-22 at 13 36 15_2da302a6](https://github.com/Ettasupraja/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/151641352/70b0156a-43df-4249-9910-7f1c4cea923f)
-![WhatsApp Image 2024-04-22 at 13 36 17_52179ebc](https://github.com/Ettasupraja/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/151641352/d0c157dc-b637-4c48-b817-c1825cafffe1)
-![WhatsApp Image 2024-04-22 at 13 36 18_d6d6f29a](https://github.com/Ettasupraja/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/151641352/3ebbddd2-8d5f-4f84-ac7e-c3f144c7e45d)
-![WhatsApp Image 2024-04-22 at 13 36 20_9c00fdfd](https://github.com/Ettasupraja/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/151641352/c95ada5f-5ffa-43a0-9dfc-f8959b61ba2e)
+![WhatsApp Image 2024-04-22 at 13 36 15_1ffc364f](https://github.com/Ettasupraja/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/151641352/a9436af0-a110-4c0a-9a6d-a6d0f0439abe)
+
+![WhatsApp Image 2024-04-22 at 13 36 16_1ccb5f4a](https://github.com/Ettasupraja/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/151641352/87f84499-875b-4a7e-86e4-a8a0db1a0b6d)
+
+![WhatsApp Image 2024-04-22 at 13 36 17_99ee983f](https://github.com/Ettasupraja/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/151641352/15c0d387-ec90-480b-8dc4-a01e96f2a48a)
+ ![WhatsApp Image 2024-04-22 at 13 36 18_021569b7](https://github.com/Ettasupraja/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/151641352/874826dd-6c05-4250-8b5c-7a6f2735a618)
 
 https://drive.google.com/file/d/1vEESJeq83Hd8zZatJ-KX99_7GxG7gBuU/view?usp=sharing
 
